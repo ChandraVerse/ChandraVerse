@@ -26,14 +26,14 @@ Name     : Chandra Sekhar Chakraborty
 Location : Kolkata, West Bengal, India
 Degree   : B.Tech Computer Science & Engineering (2026)
 Focus    : SOC Analysis | Threat Intelligence | Cloud Security
-Goals    : SOC Analyst L1 → Cybersecurity Engineer | UPSC CSE / RBI Grade B
+Goals    : SOC Analyst L1 → Cybersecurity Engineer → Security Architect
 ```
 
 - 🔭 Currently building **[Ghar_Nishchit](https://github.com/ChandraVerse)** — a Rental Property Management Web App
 - 🛡️ Practicing SOC skills on **TryHackMe** and learning **KQL** for Microsoft Sentinel
 - 📚 Studying **MITRE ATT&CK**, **NIST**, and **Incident Response** frameworks
 - 🌍 Exploring cybersecurity opportunities in **Europe & UK**
-- ⚡ Fun fact: I juggle cybersecurity, web dev, and civil services prep — simultaneously!
+- ⚡ Fun fact: I can analyze a suspicious log file and debug a React component in the same afternoon!
 
 ---
 
@@ -114,11 +114,11 @@ Goals    : SOC Analyst L1 → Cybersecurity Engineer | UPSC CSE / RBI Grade B
 
 ## 🎯 2026 Goals
 
-- [ ] 🏆 Clear **UPSC CSE Prelims** / **RBI Grade B**
 - [ ] 🛡️ Earn **CompTIA Security+** certification
 - [ ] 🔵 Complete **Microsoft SC-200** (Security Operations Analyst)
 - [ ] 🧪 Build a full **SOC Home Lab** with SIEM + SOAR
 - [ ] 🌍 Land a **SOC Analyst L1** role in Europe/UK
+- [ ] 🔴 Complete **eJPT** (Junior Penetration Tester) certification
 - [ ] 🚀 Deploy **Ghar_Nishchit** to production
 
 ---
