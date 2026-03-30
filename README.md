@@ -47,11 +47,52 @@ I build **production-grade detection pipelines**, hunt adversaries using **MITRE
 ## 📈 &nbsp;GitHub Stats
 
 <div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/-%F0%9F%93%81%20Repositories-161b22?style=flat-square&labelColor=161b22&color=161b22" /><br/>
+<a href="https://github.com/ChandraVerse?tab=repositories">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChandraVerse&query=public_repos&style=for-the-badge&label=Public%20Repos&color=0d1117&labelColor=161b22&logoColor=7ee8fa" />
+</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/-%E2%AD%90%20Stars%20Earned-161b22?style=flat-square&labelColor=161b22&color=161b22" /><br/>
+<img src="https://img.shields.io/badge/Stars-growing-7ee8fa?style=for-the-badge&labelColor=161b22" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/-%F0%9F%9F%A2%20Contributions-161b22?style=flat-square&labelColor=161b22&color=161b22" /><br/>
+<img src="https://img.shields.io/badge/Contributions-332%2B-7ee8fa?style=for-the-badge&labelColor=161b22" />
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/-%F0%9F%93%85%20Member%20Since-161b22?style=flat-square&labelColor=161b22&color=161b22" /><br/>
+<img src="https://img.shields.io/badge/Since-Mar%202024-7ee8fa?style=for-the-badge&labelColor=161b22" />
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChandraVerse&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=7ee8fa&icon_color=7ee8fa&text_color=c9d1d9&bg_color=0d1117" height="170" />
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=ChandraVerse&hide_border=true&background=0d1117&ring=7ee8fa&fire=7ee8fa&currStreakLabel=7ee8fa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="170" />
+<br/>
 
+<table>
+<tr>
+<td align="center" colspan="4">
+<b>🔥 Activity Highlights</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+🛡️ <b>6 Repos</b><br/><sub>cybersecurity labs</sub>
+</td>
+<td align="center">
+📊 <b>332+</b><br/><sub>contributions</sub>
+</td>
+<td align="center">
+⚡ <b>Active</b><br/><sub>daily commits</sub>
+</td>
+<td align="center">
+🎓 <b>2026</b><br/><sub>graduating</sub>
+</td>
+</tr>
+</table>
 </div>
 
 ---
