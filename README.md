@@ -11,7 +11,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-sekhar-chakraborty-a9411a286/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakrabortychandrasekhar185@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChandraVerse)
 
 <img src="https://komarev.com/ghpvc/?username=ChandraVerse&label=Profile+Views&color=7ee8fa&style=flat-square" />
@@ -124,7 +123,7 @@ I build **production-grade detection pipelines**, hunt adversaries using **MITRE
 <tr>
 <td width="50%" valign="top">
 <h3>🔵 <a href="https://github.com/ChandraVerse/enterprise-detection-engineering-lab">Enterprise Detection Lab</a></h3>
-<p>Production-grade <b>Elastic SIEM</b> with Sysmon telemetry, <b>10+ Sigma rules</b> mapped to MITRE ATT&CK, KQL/SPL conversions &amp; adversary simulation via <b>Atomic Red Team</b>.</p>
+<p>Production-grade <b>Elastic SIEM</b> with Sysmon telemetry, <b>10+ Sigma rules</b> mapped to MITRE ATT&amp;CK, KQL/SPL conversions &amp; adversary simulation via <b>Atomic Red Team</b>.</p>
 <p>
 <img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=flat-square&logo=elastic&logoColor=white" />
 <img src="https://img.shields.io/badge/Sigma-E10098?style=flat-square&logoColor=white" />
