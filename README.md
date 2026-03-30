@@ -1,112 +1,104 @@
-<!-- ===== HERO ===== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,40:161b22,100:00f7ff&height=230&section=header&text=Chandra%20Sekhar%20Chakraborty&fontSize=46&fontColor=ffffff&fontAlignY=50&desc=SOC%20Analyst%20%E2%80%A2%20Detection%20Engineer%20%E2%80%A2%20Threat%20Hunter&descSize=17&descColor=7ee8fa&descAlignY=68" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00f7ff&height=200&section=header&text=Chandra%20Sekhar%20Chakraborty&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20Analyst%20%20%E2%80%A2%20%20Detection%20Engineer%20%20%E2%80%A2%20%20Threat%20Hunter&descSize=16&descColor=7ee8fa&descAlignY=62&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2800&pause=900&color=7EE8FA&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%9B%A1%EF%B8%8F+Blue+teamer+by+discipline%2C+red+teamer+by+curiosity;%E2%9A%A1+Building+detection+pipelines+that+actually+matter;%F0%9F%94%8D+SIEM+%C2%B7+KQL+%C2%B7+Sigma+%C2%B7+MITRE+ATT%26CK+%C2%B7+SOAR;%F0%9F%9A%80+SOC+L1+%E2%86%92+SOC+L2+%E2%86%92+Security+Architect" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=7EE8FA&center=true&vCenter=true&width=680&lines=Blue+teamer+by+discipline+%F0%9F%9B%A1%EF%B8%8F;Red+teamer+by+curiosity+%F0%9F%94%B4;Building+detection+pipelines+that+matter+%E2%9A%A1;SIEM+%C2%B7+KQL+%C2%B7+Sigma+%C2%B7+MITRE+ATT%26CK+%C2%B7+SOAR;SOC+L1+%E2%86%92+SOC+L2+%E2%86%92+Security+Architect+%F0%9F%9B%A1%EF%B8%8F" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-sekhar-chakraborty-a9411a286/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-sekhar-chakraborty-a9411a286/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakrabortychandrasekhar185@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChandraVerse)
-
-<img src="https://komarev.com/ghpvc/?username=ChandraVerse&label=Profile+Views&color=7ee8fa&style=flat-square" />
-
-</div>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 
 <br/>
 
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChandraVerse&query=public_repos&style=flat-square&label=Repos&color=0d1117&labelColor=161b22&logo=github&logoColor=7ee8fa)](https://github.com/ChandraVerse?tab=repositories)
+[![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChandraVerse&query=followers&style=flat-square&label=Followers&color=0d1117&labelColor=161b22&logo=github&logoColor=7ee8fa)](https://github.com/ChandraVerse?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=ChandraVerse&label=Profile+Views&color=0d1117&style=flat-square)](https://github.com/ChandraVerse)
+
+</div>
+
 ---
 
-## 👾 &nbsp;About Me
+## 👤 &nbsp;whoami
 
-<img align="right" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-Hey! I'm **Chandra** — a cybersecurity analyst and B.Tech CSE final-year student from Kolkata, India.
-
-I build **production-grade detection pipelines**, hunt adversaries using **MITRE ATT&CK**, and automate incident triage with Python + SOAR. I've completed **50+ hands-on SOC labs**, authored **Sigma detection rules** mapped to real adversary TTPs, and shipped a full **NIST 800-61** Incident Response platform from scratch.
-
-```yaml
-📍  Kolkata, West Bengal, India
-🎓  B.Tech CSE — Graduating 2026
-🎯  Goal   : SOC L1 → SOC L2 → Security Architect
-📚  Now    : KQL · SC-200 · Memory Forensics
-💡  Motto  : Detect faster. Respond smarter.
+```bash
+$ cat /etc/chandra/profile.yaml
 ```
 
-> *"The art of war teaches us to rely not on the likelihood of the enemy's not coming,*
-> *but on our own readiness to receive him."* — **Sun Tzu**
+```yaml
+name       : Chandra Sekhar Chakraborty
+location   : Kolkata, West Bengal, India 🇮🇳
+degree     : B.Tech CSE — Graduating 2026
+role       : SOC Analyst | Detection Engineer | Threat Hunter
+current    : KQL · SC-200 · Memory Forensics
+goal       : SOC L1 → SOC L2 → Security Architect 🏗️
+motto      : "Detect faster. Respond smarter."
 
-<br clear="right"/>
+stats:
+  labs_completed : 50+
+  sigma_rules    : 10+
+  frameworks     : MITRE ATT&CK · NIST 800-61 · Kill Chain
+  platforms      : Elastic · Splunk · Wazuh · Sentinel
+```
 
----
-
-## 📈 &nbsp;GitHub Stats
-
-<div align="center">
-
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChandraVerse&query=public_repos&style=for-the-badge&label=%F0%9F%93%81%20Public%20Repos&color=0d1117&labelColor=161b22&logoColor=7ee8fa)](https://github.com/ChandraVerse?tab=repositories)
-&nbsp;
-[![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChandraVerse&query=followers&style=for-the-badge&label=%F0%9F%91%A5%20Followers&color=0d1117&labelColor=161b22)](https://github.com/ChandraVerse?tab=followers)
-&nbsp;
-[![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChandraVerse&query=following&style=for-the-badge&label=%F0%9F%94%97%20Following&color=0d1117&labelColor=161b22)](https://github.com/ChandraVerse?tab=following)
-&nbsp;
-[![Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChandraVerse&query=public_gists&style=for-the-badge&label=%F0%9F%93%9D%20Gists&color=0d1117&labelColor=161b22)](https://gist.github.com/ChandraVerse)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ChandraVerse&label=Profile+Views&color=7ee8fa&style=for-the-badge)
-
-</div>
+> *“The art of war teaches us to rely not on the likelihood of the enemy’s not coming,*
+> *but on our own readiness to receive him.” — Sun Tzu*
 
 ---
 
-## 🛡️ &nbsp;Cybersecurity Skills
+## 🛡️ &nbsp;Arsenal
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="33%">
 
-**🔵 SIEM & Detection**
+### 🔵 Blue Team
+`SIEM` `Detection Engineering` `IR`
 
-![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=flat-square&logo=elastic&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_SIEM-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-3AAAFF?style=flat-square&logoColor=white)
 ![Sentinel](https://img.shields.io/badge/MS_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Sigma](https://img.shields.io/badge/Sigma_Rules-E10098?style=flat-square&logoColor=white)
 ![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![SPL](https://img.shields.io/badge/SPL-black?style=flat-square&logo=splunk&logoColor=white)
+![SPL](https://img.shields.io/badge/SPL-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=flat-square&logo=windows&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**🟣 Threat Intel & IR**
-
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square&logoColor=white)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
-![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-FF4500?style=flat-square&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=flat-square&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-4B0082?style=flat-square&logoColor=white)
-![NIST 800-61](https://img.shields.io/badge/NIST_800--61-003087?style=flat-square&logoColor=white)
 ![SOAR](https://img.shields.io/badge/SOAR-0052CC?style=flat-square&logo=pagerduty&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
-**🔴 Offensive Security**
+### 🟣 Threat Intel
+`CTI` `OSINT` `Forensics`
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
+![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-FF4500?style=flat-square&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=flat-square&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-4B0082?style=flat-square&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST_800--61-003087?style=flat-square&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-4A4A4A?style=flat-square&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 🔴 Red Team
+`Pentesting` `Exploitation` `Recon`
+
+![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
 ![BloodHound](https://img.shields.io/badge/BloodHound-FF0000?style=flat-square&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![AD](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Impacket](https://img.shields.io/badge/Impacket-CC0000?style=flat-square&logo=python&logoColor=white)
 
 </td>
@@ -114,7 +106,7 @@ I build **production-grade detection pipelines**, hunt adversaries using **MITRE
 </table>
 
 <details>
-<summary><b>⚙️ &nbsp;Dev &amp; Scripting Stack &nbsp;›</b></summary>
+<summary><b>⚙️ &nbsp;Dev &amp; Scripting Stack</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -123,11 +115,10 @@ I build **production-grade detection pipelines**, hunt adversaries using **MITRE
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -141,106 +132,120 @@ I build **production-grade detection pipelines**, hunt adversaries using **MITRE
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>🔵 <a href="https://github.com/ChandraVerse/enterprise-detection-engineering-lab">Enterprise Detection Lab</a></h3>
-<p>Production-grade <b>Elastic SIEM</b> with Sysmon telemetry, <b>10+ Sigma rules</b> mapped to MITRE ATT&amp;CK, KQL/SPL conversions &amp; adversary simulation via <b>Atomic Red Team</b>.</p>
-<p>
-<img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=flat-square&logo=elastic&logoColor=white" />
-<img src="https://img.shields.io/badge/Sigma-E10098?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
+<td width="50%">
+
+### 🔵 [Enterprise Detection Lab](https://github.com/ChandraVerse/enterprise-detection-engineering-lab)
+
+> Production-grade **Elastic SIEM** + Sysmon telemetry pipeline with **10+ Sigma rules** mapped to MITRE ATT&CK, KQL/SPL conversions & live adversary simulation via Atomic Red Team.
+
+![Elastic](https://img.shields.io/badge/Elastic_SIEM-005571?style=flat-square&logo=elastic&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma-E10098?style=flat-square&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 </td>
-<td width="50%" valign="top">
-<h3>🤖 <a href="https://github.com/ChandraVerse/automated-ir-threat-intelligence-platform">Automated IR Platform</a></h3>
-<p>Python pipeline ingesting <b>Wazuh</b> alerts → enriching IOCs via VirusTotal, AbuseIPDB &amp; Shodan → auto-generating <b>NIST 800-61</b> IR reports → <b>Grafana</b> MTTD/MTTR dashboard.</p>
-<p>
-<img src="https://img.shields.io/badge/Wazuh-3AAAFF?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/SOAR-0052CC?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/NIST_800--61-003087?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>📊 <a href="https://github.com/ChandraVerse/Log-Analysis-Lab">SOC Log Analysis Lab</a></h3>
-<p>Simulated SOC analyst investigations across <b>Windows Event Logs</b>, web server logs &amp; firewall traffic for multi-layer threat detection and triage.</p>
-<p>
-<img src="https://img.shields.io/badge/Windows_Events-0078D4?style=flat-square&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Firewall_Analysis-FF6C37?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/SOC_Triage-7ee8fa?style=flat-square&logoColor=black" />
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>🚨 <a href="https://github.com/ChandraVerse/SOC-L1-Alert-Triage">SOC L1 Alert Triage</a></h3>
-<p>Hands-on SOC Level 1 simulation — full alert lifecycle: investigation → escalation → documentation as a real L1 analyst.</p>
-<p>
-<img src="https://img.shields.io/badge/Alert_Triage-FF0000?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Incident_Response-6600CC?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/SOC_L1-0078D4?style=flat-square&logoColor=white" />
-</p>
+<td width="50%">
+
+### 🤖 [Automated IR Platform](https://github.com/ChandraVerse/automated-ir-threat-intelligence-platform)
+
+> Python SOAR pipeline: **Wazuh** alerts → IOC enrichment via VirusTotal, AbuseIPDB & Shodan → auto **NIST 800-61** reports → live **Grafana** MTTD/MTTR dashboard.
+
+![Wazuh](https://img.shields.io/badge/Wazuh-3AAAFF?style=flat-square&logoColor=white)
+![SOAR](https://img.shields.io/badge/SOAR-0052CC?style=flat-square&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST_800--61-003087?style=flat-square&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3>🔍 <a href="https://github.com/ChandraVerse/IP-Investigation">IP Investigation — VirusTotal</a></h3>
-<p>Threat intel task using <b>VirusTotal</b> to investigate suspicious IPs — analyzing reputation scores, malware associations &amp; WHOIS data for SOC triage decisions.</p>
-<p>
-<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" />
-<img src="https://img.shields.io/badge/IOC_Analysis-FF6600?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/OSINT-4B0082?style=flat-square&logoColor=white" />
-</p>
+<td width="50%">
+
+### 📊 [SOC Log Analysis Lab](https://github.com/ChandraVerse/Log-Analysis-Lab)
+
+> Multi-layer SOC investigations across **Windows Event Logs**, web server logs & firewall traffic — real-world triage simulations with structured findings.
+
+![Windows](https://img.shields.io/badge/Windows_Events-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall_Analysis-FF6C37?style=flat-square&logoColor=white)
+![SOC](https://img.shields.io/badge/SOC_Triage-7ee8fa?style=flat-square&logoColor=black)
+
 </td>
-<td width="50%" valign="top">
-<h3>📶 <a href="https://github.com/ChandraVerse/Monitoring-Network-Traffic">Network Traffic — Wireshark</a></h3>
-<p>Captured &amp; analyzed real network traffic on a Linux VM — identifying anomalies, protocol patterns &amp; indicators of compromise in a live SOC lab environment.</p>
-<p>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Packet_Analysis-0E83CD?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Network_Forensics-2C2C2C?style=flat-square&logoColor=white" />
-</p>
+<td width="50%">
+
+### 🚨 [SOC L1 Alert Triage](https://github.com/ChandraVerse/SOC-L1-Alert-Triage)
+
+> End-to-end **SOC L1 simulation** — alert investigation → threat classification → escalation → documentation. Mirrors a real analyst's daily workflow.
+
+![Triage](https://img.shields.io/badge/Alert_Triage-FF0000?style=flat-square&logoColor=white)
+![IR](https://img.shields.io/badge/Incident_Response-6600CC?style=flat-square&logoColor=white)
+![L1](https://img.shields.io/badge/SOC_L1-0078D4?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 [IP Investigation — VirusTotal](https://github.com/ChandraVerse/IP-Investigation)
+
+> Threat intel deep-dive using **VirusTotal** — reputation scoring, malware family analysis, WHOIS lookups & IOC correlation for actionable SOC triage decisions.
+
+![VT](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
+![IOC](https://img.shields.io/badge/IOC_Analysis-FF6600?style=flat-square&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-4B0082?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 📶 [Network Traffic — Wireshark](https://github.com/ChandraVerse/Monitoring-Network-Traffic)
+
+> Live packet capture & analysis on a Linux VM — protocol dissection, anomaly detection & IOC identification in a realistic SOC lab environment.
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Packets](https://img.shields.io/badge/Packet_Analysis-0E83CD?style=flat-square&logoColor=white)
+![Forensics](https://img.shields.io/badge/Network_Forensics-2C2C2C?style=flat-square&logoColor=white)
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🏅 &nbsp;Certifications &nbsp;&nbsp;&nbsp; 🗺️ &nbsp;2026 Roadmap
+## 🏅 &nbsp;Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-| Status | Certification |
-|:------:|:--------------|
-| ✅ | Cisco Junior Cybersecurity Analyst |
-| ✅ | Cisco Network Defense |
-| ✅ | Cisco Endpoint Security |
-| ✅ | Wireshark Packet Analysis — Udemy |
-| ✅ | TryHackMe SOC Level 1 Path |
-| 🔄 | CompTIA Security+ *(in progress)* |
-| 🔄 | Microsoft SC-200 *(in progress)* |
-| ⏳ | eJPT — Junior Penetration Tester |
+| &nbsp; | Certification | Status |
+|:---:|:---|:---:|
+| 🏆 | Cisco Junior Cybersecurity Analyst | ✅ Earned |
+| 🏆 | Cisco Network Defense | ✅ Earned |
+| 🏆 | Cisco Endpoint Security | ✅ Earned |
+| 🏆 | Wireshark Packet Analysis — Udemy | ✅ Earned |
+| 🏆 | TryHackMe SOC Level 1 Path | ✅ Earned |
+| 🔄 | CompTIA Security+ | 🔥 In Progress |
+| 🔄 | Microsoft SC-200 — Security Operations | 🔥 In Progress |
+| ⏳ | eJPT — Junior Penetration Tester | 🎯 Upcoming |
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-- [x] 🏗️ &nbsp;Enterprise Detection Lab — Elastic + Sigma
-- [x] 🤖 &nbsp;Automated IR & Threat Intel Platform
-- [ ] 🛡️ &nbsp;**CompTIA Security+** certification
-- [ ] 📘 &nbsp;**Microsoft SC-200** — Security Ops Analyst
-- [ ] 🔴 &nbsp;**eJPT** — Junior Penetration Tester
-- [ ] 🧪 &nbsp;Full SOC Home Lab — SIEM + SOAR + Feeds
-- [ ] 🔵 &nbsp;**SOC Analyst L1** → first role landed
-- [ ] 🟣 &nbsp;**SOC Analyst L2** → senior analyst
-- [ ] 🏗️ &nbsp;**Security Architect** → long-term goal
+---
 
-</td>
-</tr>
-</table>
+## 🗺️ &nbsp;Career Roadmap
+
+```
+2026  ──►  ✅ Enterprise Detection Lab
+          ✅ Automated IR Platform
+          🔥 CompTIA Security+
+          🔥 Microsoft SC-200
+          🎯 eJPT — Junior Penetration Tester
+          🧪 Full SOC Home Lab (SIEM + SOAR + Threat Feeds)
+
+Near      ──►  🔵 SOC Analyst L1  → Land first role
+
+Mid       ──►  🟣 SOC Analyst L2  → Senior analyst & detection lead
+
+Long      ──►  🏗️ Security Architect  → Design enterprise security posture
+```
 
 ---
 
@@ -248,16 +253,18 @@ I build **production-grade detection pipelines**, hunt adversaries using **MITRE
 
 <br/>
 
-**On a mission: SOC L1 → SOC L2 → Security Architect 🛡️**
+### 🤝 &nbsp;Let’s Connect
+
+*Open to cybersecurity opportunities worldwide 🌍*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-sekhar-chakraborty-a9411a286/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakrabortychandrasekhar185@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-sekhar-chakraborty-a9411a286/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakrabortychandrasekhar185@gmail.com)
 
 <br/><br/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:00f7ff,60:161b22,100:0d1117&height=120&section=footer&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:0a3d62,100:0d1117&height=120&section=footer" />
