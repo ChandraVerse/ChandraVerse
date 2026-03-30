@@ -1,7 +1,7 @@
 <!-- ===== HERO ===== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,40:161b22,100:00f7ff&height=230&section=header&text=Chandra%20Sekhar%20Chakraborty&fontSize=46&fontColor=ffffff&fontAlignY=50&desc=SOC%20Analyst%20%E2%80%A2%20Detection%20Engineer%20%E2%80%A2%20Threat%20Hunter&descSize=17&descColor=7ee8fa&descAlignY=68&reversal=false" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,40:161b22,100:00f7ff&height=230&section=header&text=Chandra%20Sekhar%20Chakraborty&fontSize=46&fontColor=ffffff&fontAlignY=50&desc=SOC%20Analyst%20%E2%80%A2%20Detection%20Engineer%20%E2%80%A2%20Threat%20Hunter&descSize=17&descColor=7ee8fa&descAlignY=68" />
 
 <br/>
 
@@ -42,26 +42,6 @@ I build **production-grade detection pipelines**, hunt adversaries using **MITRE
 > *but on our own readiness to receive him."* — **Sun Tzu**
 
 <br clear="right"/>
-
----
-
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChandraVerse&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=7ee8fa&icon_color=7ee8fa&text_color=c9d1d9&bg_color=0d1117" height="170" />
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=ChandraVerse&hide_border=true&background=0d1117&ring=7ee8fa&fire=ff6b6b&currStreakLabel=7ee8fa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraVerse&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=7ee8fa&text_color=c9d1d9&bg_color=0d1117" height="150" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraVerse&bg_color=0d1117&color=7ee8fa&line=7ee8fa&point=ffffff&area=true&area_color=7ee8fa20&hide_border=true&custom_title=Contribution+Graph" width="94%" />
-
-</div>
 
 ---
 
@@ -140,36 +120,76 @@ I build **production-grade detection pipelines**, hunt adversaries using **MITRE
 
 ## 🚀 &nbsp;Featured Projects
 
-<a href="https://github.com/ChandraVerse/enterprise-detection-engineering-lab">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChandraVerse&repo=enterprise-detection-engineering-lab&theme=tokyonight&hide_border=true&title_color=7ee8fa&icon_color=7ee8fa&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-<a href="https://github.com/ChandraVerse/automated-ir-threat-intelligence-platform">
-  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChandraVerse&repo=automated-ir-threat-intelligence-platform&theme=tokyonight&hide_border=true&title_color=7ee8fa&icon_color=7ee8fa&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-
-<br clear="both"/><br/>
-
-<a href="https://github.com/ChandraVerse/Log-Analysis-Lab">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChandraVerse&repo=Log-Analysis-Lab&theme=tokyonight&hide_border=true&title_color=7ee8fa&icon_color=7ee8fa&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-<a href="https://github.com/ChandraVerse/SOC-L1-Alert-Triage">
-  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChandraVerse&repo=SOC-L1-Alert-Triage&theme=tokyonight&hide_border=true&title_color=7ee8fa&icon_color=7ee8fa&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-
-<br clear="both"/><br/>
-
-<a href="https://github.com/ChandraVerse/IP-Investigation">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChandraVerse&repo=IP-Investigation&theme=tokyonight&hide_border=true&title_color=7ee8fa&icon_color=7ee8fa&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-<a href="https://github.com/ChandraVerse/Monitoring-Network-Traffic">
-  <img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ChandraVerse&repo=Monitoring-Network-Traffic&theme=tokyonight&hide_border=true&title_color=7ee8fa&icon_color=7ee8fa&text_color=c9d1d9&bg_color=0d1117" />
-</a>
-
-<br clear="both"/>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🔵 <a href="https://github.com/ChandraVerse/enterprise-detection-engineering-lab">Enterprise Detection Lab</a></h3>
+<p>Production-grade <b>Elastic SIEM</b> with Sysmon telemetry, <b>10+ Sigma rules</b> mapped to MITRE ATT&CK, KQL/SPL conversions &amp; adversary simulation via <b>Atomic Red Team</b>.</p>
+<p>
+<img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=flat-square&logo=elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/Sigma-E10098?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>🤖 <a href="https://github.com/ChandraVerse/automated-ir-threat-intelligence-platform">Automated IR Platform</a></h3>
+<p>Python pipeline ingesting <b>Wazuh</b> alerts → enriching IOCs via VirusTotal, AbuseIPDB &amp; Shodan → auto-generating <b>NIST 800-61</b> IR reports → <b>Grafana</b> MTTD/MTTR dashboard.</p>
+<p>
+<img src="https://img.shields.io/badge/Wazuh-3AAAFF?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/SOAR-0052CC?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/NIST_800--61-003087?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📊 <a href="https://github.com/ChandraVerse/Log-Analysis-Lab">SOC Log Analysis Lab</a></h3>
+<p>Simulated SOC analyst investigations across <b>Windows Event Logs</b>, web server logs &amp; firewall traffic for multi-layer threat detection and triage.</p>
+<p>
+<img src="https://img.shields.io/badge/Windows_Events-0078D4?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Firewall_Analysis-FF6C37?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/SOC_Triage-7ee8fa?style=flat-square&logoColor=black" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>🚨 <a href="https://github.com/ChandraVerse/SOC-L1-Alert-Triage">SOC L1 Alert Triage</a></h3>
+<p>TryHackMe SOC Level 1 simulation — full alert lifecycle: investigation → escalation → documentation as a real L1 analyst.</p>
+<p>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/Alert_Triage-FF0000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Incident_Response-6600CC?style=flat-square&logoColor=white" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🔍 <a href="https://github.com/ChandraVerse/IP-Investigation">IP Investigation — VirusTotal</a></h3>
+<p>Threat intel task using <b>VirusTotal</b> to investigate suspicious IPs — analyzing reputation scores, malware associations &amp; WHOIS data for SOC triage decisions.</p>
+<p>
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" />
+<img src="https://img.shields.io/badge/IOC_Analysis-FF6600?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/OSINT-4B0082?style=flat-square&logoColor=white" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>📶 <a href="https://github.com/ChandraVerse/Monitoring-Network-Traffic">Network Traffic — Wireshark</a></h3>
+<p>Captured &amp; analyzed real network traffic on a Linux VM — identifying anomalies, protocol patterns &amp; indicators of compromise in a live SOC lab environment.</p>
+<p>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Packet_Analysis-0E83CD?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Network_Forensics-2C2C2C?style=flat-square&logoColor=white" />
+</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏅 &nbsp;Certifications &nbsp;&nbsp; 🗺️ &nbsp;2026 Roadmap
+## 🏅 &nbsp;Certifications &nbsp;&nbsp;&nbsp; 🗺️ &nbsp;2026 Roadmap
 
 <table>
 <tr>
@@ -204,7 +224,6 @@ I build **production-grade detection pipelines**, hunt adversaries using **MITRE
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
 <br/>
@@ -217,11 +236,7 @@ I build **production-grade detection pipelines**, hunt adversaries using **MITRE
 &nbsp;
 [![Email](https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chakrabortychandrasekhar185@gmail.com)
 
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Detect%20faster.%20Respond%20smarter.%20Defend%20stronger.&author=Chandra%20Sekhar%20Chakraborty" />
-
-<br/>
+<br/><br/>
 
 </div>
 
