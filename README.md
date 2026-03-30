@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=7EE8FA&center=true&vCenter=true&width=680&lines=Blue+teamer+by+discipline+%F0%9F%9B%A1%EF%B8%8F;Red+teamer+by+curiosity+%F0%9F%94%B4;Building+detection+pipelines+that+matter+%E2%9A%A1;SIEM+%C2%B7+KQL+%C2%B7+Sigma+%C2%B7+MITRE+ATT%26CK+%C2%B7+SOAR;Targeting+SOC+Analyst+L1+%E2%86%92+Europe+%2F+UK+%F0%9F%8C%8D" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=7EE8FA&center=true&vCenter=true&width=680&lines=Blue+teamer+by+discipline+%F0%9F%9B%A1%EF%B8%8F;Red+teamer+by+curiosity+%F0%9F%94%B4;Building+detection+pipelines+that+matter+%E2%9A%A1;SIEM+%C2%B7+KQL+%C2%B7+Sigma+%C2%B7+MITRE+ATT%26CK+%C2%B7+SOAR;SOC+L1+%E2%86%92+SOC+L2+%E2%86%92+Security+Architect+%F0%9F%9B%A1%EF%B8%8F" />
 
 <br/><br/>
 
@@ -32,7 +32,7 @@ I build **production-grade detection pipelines**, hunt adversaries using **MITRE
 ```yaml
 📍  Kolkata, West Bengal, India
 🎓  B.Tech CSE — Graduating 2026
-🎯  Goal   : SOC Analyst L1 → Europe / UK
+🎯  Goal   : SOC L1 → SOC L2 → Security Architect
 📚  Now    : KQL · SC-200 · Memory Forensics
 💡  Motto  : Detect faster. Respond smarter.
 ```
@@ -226,8 +226,9 @@ I build **production-grade detection pipelines**, hunt adversaries using **MITRE
 - [ ] 📘 &nbsp;**Microsoft SC-200** — Security Ops Analyst
 - [ ] 🔴 &nbsp;**eJPT** — Junior Penetration Tester
 - [ ] 🧪 &nbsp;Full SOC Home Lab — SIEM + SOAR + Feeds
-- [ ] 🌍 &nbsp;**SOC Analyst L1** role in Europe / UK
-- [ ] 🚀 &nbsp;Deploy **Ghar_Nishchit** to production
+- [ ] 🔵 &nbsp;**SOC Analyst L1** → first role landed
+- [ ] 🟣 &nbsp;**SOC Analyst L2** → senior analyst
+- [ ] 🏗️ &nbsp;**Security Architect** → long-term goal
 
 </td>
 </tr>
@@ -239,7 +240,7 @@ I build **production-grade detection pipelines**, hunt adversaries using **MITRE
 
 <br/>
 
-**Open to SOC Analyst L1 opportunities in Europe & UK 🌍**
+**On a mission: SOC L1 → SOC L2 → Security Architect 🛡️**
 
 <br/>
 
