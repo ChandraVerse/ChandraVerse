@@ -211,11 +211,11 @@ I've completed **50+ SOC labs** on TryHackMe, authored **Sigma detection rules**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChandraVerse&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandraVerse&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ChandraVerse&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraVerse&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraVerse&layout=compact&theme=radical&hide_border=true&langs_count=8" width="42%" />
 </p>
 
 ---
