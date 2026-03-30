@@ -44,20 +44,13 @@ I build **production-grade detection pipelines**, hunt adversaries using **MITRE
 
 ---
 
-## 📈 &nbsp;Live GitHub Activity
+## 📈 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChandraVerse&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=7ee8fa&icon_color=7ee8fa&text_color=c9d1d9&bg_color=0d1117" height="165" />
-<img src="https://streak-stats.demolab.com/?user=ChandraVerse&hide_border=true&background=0d1117&ring=7ee8fa&fire=ff6b6b&currStreakLabel=7ee8fa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="165" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraVerse&bg_color=0d1117&color=7ee8fa&line=7ee8fa&point=ffffff&area=true&area_color=7ee8fa20&hide_border=true&custom_title=Contribution+Graph" width="95%" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/ChandraVerse/ChandraVerse/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+<img src="https://github-readme-stats.vercel.app/api?username=ChandraVerse&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=7ee8fa&icon_color=7ee8fa&text_color=c9d1d9&bg_color=0d1117" height="170" />
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=ChandraVerse&hide_border=true&background=0d1117&ring=7ee8fa&fire=7ee8fa&currStreakLabel=7ee8fa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="170" />
 
 </div>
 
@@ -175,11 +168,11 @@ I build **production-grade detection pipelines**, hunt adversaries using **MITRE
 </td>
 <td width="50%" valign="top">
 <h3>🚨 <a href="https://github.com/ChandraVerse/SOC-L1-Alert-Triage">SOC L1 Alert Triage</a></h3>
-<p>TryHackMe SOC Level 1 simulation — full alert lifecycle: investigation → escalation → documentation as a real L1 analyst.</p>
+<p>Hands-on SOC Level 1 simulation — full alert lifecycle: investigation → escalation → documentation as a real L1 analyst.</p>
 <p>
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
 <img src="https://img.shields.io/badge/Alert_Triage-FF0000?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Incident_Response-6600CC?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/SOC_L1-0078D4?style=flat-square&logoColor=white" />
 </p>
 </td>
 </tr>
