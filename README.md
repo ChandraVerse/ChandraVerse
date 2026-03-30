@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chandra-sekhar-chakraborty" target="_blank">
+  <a href="https://www.linkedin.com/in/chandra-sekhar-chakraborty-a9411a286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:chakrabortychandrasekhar185@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://tryhackme.com" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <a href="https://github.com/ChandraVerse" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -235,11 +235,14 @@ I've completed **50+ SOC labs** on TryHackMe, authored **Sigma detection rules**
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chandra-sekhar-chakraborty">
+  <a href="https://www.linkedin.com/in/chandra-sekhar-chakraborty-a9411a286/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/ChandraVerse">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:chakrabortychandrasekhar185@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
