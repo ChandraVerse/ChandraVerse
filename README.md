@@ -88,14 +88,52 @@ Goals    : SOC Analyst L1 → Cybersecurity Engineer → Security Architect
 
 ## 🚀 Featured Projects
 
+### 🔵 [Enterprise Detection Engineering Lab](https://github.com/ChandraVerse/enterprise-detection-engineering-lab)
+> Production-grade **Elastic SIEM** detection lab with Sysmon telemetry, 10+ **Sigma rules** mapped to **MITRE ATT&CK**, KQL/SPL conversions, and adversary simulation using **Atomic Red Team**.
+
+`Python` `Elastic SIEM` `Sysmon` `Sigma Rules` `MITRE ATT&CK` `KQL` `SPL`
+
+---
+
+### 🤖 [Automated IR & Threat Intelligence Platform](https://github.com/ChandraVerse/automated-ir-threat-intelligence-platform)
+> Python pipeline ingesting **Wazuh** alerts, enriching IOCs via **VirusTotal**, **AbuseIPDB** & **Shodan**, auto-generating **NIST 800-61** IR reports, SOAR triage automation, and a **Grafana** dashboard tracking MTTD and MTTR.
+
+`Python` `Wazuh` `VirusTotal` `AbuseIPDB` `Shodan` `NIST 800-61` `SOAR` `Grafana`
+
+---
+
+### 📊 [SOC Analyst Log Analysis Lab](https://github.com/ChandraVerse/Log-Analysis-Lab)
+> Simulated real-world SOC analyst investigations across multiple environment layers — covering Windows Event Logs, web server logs, and firewall traffic for threat detection and triage.
+
+`Log Analysis` `Windows Event Logs` `Firewall Logs` `SOC` `Threat Detection`
+
+---
+
+### 🔍 [IP Investigation — VirusTotal Analysis](https://github.com/ChandraVerse/IP-Investigation)
+> Hands-on threat intelligence task using **VirusTotal** to investigate suspicious IP addresses, analyze reputation scores, associated malware, and WHOIS data for SOC triage.
+
+`Threat Intelligence` `VirusTotal` `IOC Analysis` `SOC Triage`
+
+---
+
+### 📶 [Monitoring Network Traffic — Wireshark Lab](https://github.com/ChandraVerse/Monitoring-Network-Traffic)
+> Captured and analyzed real network traffic using **Wireshark** on a Linux VM — identifying anomalies, protocol patterns, and potential indicators of compromise in a SOC lab environment.
+
+`Wireshark` `Network Forensics` `Linux` `Packet Analysis` `SOC`
+
+---
+
+### 🚨 [SOC L1 Alert Triage — TryHackMe Lab](https://github.com/ChandraVerse/SOC-L1-Alert-Triage)
+> Completed a TryHackMe SOC Level 1 lab simulating real-world alert triage workflows — investigating, escalating, and documenting security incidents as an L1 analyst.
+
+`TryHackMe` `Alert Triage` `SOC L1` `Incident Response` `Security Operations`
+
+---
+
 ### 🏠 [Ghar_Nishchit — Rental Property Management App](https://github.com/ChandraVerse)
 > Full-stack web application for managing rental properties, tenants, and payments. Built with **React**, **Tailwind CSS**, **Vite**, and **Node.js/MongoDB**.
 
-### 🛡️ SOC Home Lab (Coming Soon)
-> Simulated SOC environment using **Microsoft Sentinel**, **Sysmon**, and **Azure VMs** to practice threat detection, KQL queries, and incident response playbooks.
-
-### 🔐 CTF Write-ups & Security Labs
-> Hands-on labs from **TryHackMe** — covering network forensics, malware analysis, web exploitation, and privilege escalation.
+`React` `Tailwind CSS` `Vite` `Node.js` `MongoDB`
 
 ---
 
