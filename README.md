@@ -21,34 +21,43 @@
 
 ## 🧠 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd3aDZtbjZycHo5eDN6aHI3aWZ6eTZ6NHZtcTZhdHplcHo2bGZkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<table>
+<tr>
+<td valign="top" width="60%">
 
 I'm a **cybersecurity analyst** with hands-on experience in **SOC operations**, **SIEM monitoring**, **detection engineering**, and **incident response**. I build real detection pipelines, hunt threats using **MITRE ATT&CK**, and automate triage workflows with Python and SOAR tools.
 
 I've completed **50+ SOC labs** on TryHackMe, authored **Sigma detection rules** mapped to adversary TTPs, and built automated **NIST 800-61** incident response platforms from scratch. I think like a **blue teamer by discipline** and a **red teamer by curiosity**.
 
 ```yaml
-🎓 Degree   : B.Tech CSE — Dr. Sudhir Chandra Sur Institute of Technology (2026)
+🎓 Degree   : B.Tech CSE (2026)
+           Dr. Sudhir Chandra Sur Institute of Technology
 📍 Location : Kolkata, West Bengal, India
-🔭 Focus    : Detection Engineering | Threat Intelligence | Incident Response
+🔭 Focus    : Detection Engineering | Threat Intel | IR
 🎯 Mission  : Detect faster. Respond smarter. Defend stronger.
 🌍 Target   : SOC Analyst L1 role in Europe / UK
 ```
 
+**🔥 Currently:**
+- 🏗️ Building [Enterprise Detection Engineering Lab](https://github.com/ChandraVerse/enterprise-detection-engineering-lab) — Elastic SIEM + Sigma + MITRE ATT&CK
+- 🤖 Developing [Automated IR & Threat Intelligence Platform](https://github.com/ChandraVerse/automated-ir-threat-intelligence-platform) — Wazuh + SOAR + Grafana
+- 📖 Deepening skills in **KQL**, **memory forensics**, **AD attack paths**
+- 🏅 Pursuing **CompTIA Security+** and **Microsoft SC-200**
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd3aDZtbjZycHo5eDN6aHI3aWZ6eTZ6NHZtcTZhdHplcHo2bGZkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
 <br/>
 
-### 🔥 What I'm Currently Doing
+| 🛡️ SOC Labs | 🔍 Sigma Rules |
+|:---:|:---:|
+| **50+** | **10+ MITRE-mapped** |
 
-- 🏗️ Building **[Enterprise Detection Engineering Lab](https://github.com/ChandraVerse/enterprise-detection-engineering-lab)** — Elastic SIEM + Sigma + MITRE ATT&CK adversary simulation
-- 🤖 Developing an **[Automated IR & Threat Intelligence Platform](https://github.com/ChandraVerse/automated-ir-threat-intelligence-platform)** — Wazuh + SOAR + Grafana MTTD/MTTR tracking
-- 📖 Deepening skills in **KQL**, **memory forensics**, and **Active Directory attack paths**
-- 🏅 Pursuing **CompTIA Security+** and **Microsoft SC-200** certifications
-
-### 📊 Quick Stats
-
-| 🛡️ SOC Labs Completed | 🔍 Detection Rules Authored | 🌐 Experience |
-|:---:|:---:|:---:|
-| **50+** (TryHackMe) | **10+ Sigma Rules** (MITRE-mapped) | Cisco NetAcad + TryHackMe SOC |
+</td>
+</tr>
+</table>
 
 ---
 
