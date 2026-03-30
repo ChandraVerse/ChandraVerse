@@ -210,12 +210,13 @@ I've completed **50+ SOC labs** on TryHackMe, authored **Sigma detection rules**
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChandraVerse&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraVerse&layout=compact&theme=radical&hide_border=true&langs_count=6" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChandraVerse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=ChandraVerse&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraVerse&theme=react-dark&hide_border=true&area=true&color=00F7FF&line=00F7FF&point=FFFFFF&area_color=003344" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraVerse&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="38%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraVerse&theme=tokyo-night&hide_border=true&area=true" width="58%" />
 </p>
 
 ---
