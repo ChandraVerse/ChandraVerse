@@ -44,6 +44,25 @@ I build **production-grade detection pipelines**, hunt adversaries using **MITRE
 
 ---
 
+## 📈 &nbsp;Live GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ChandraVerse&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=7ee8fa&icon_color=7ee8fa&text_color=c9d1d9&bg_color=0d1117" height="165" />
+<img src="https://streak-stats.demolab.com/?user=ChandraVerse&hide_border=true&background=0d1117&ring=7ee8fa&fire=ff6b6b&currStreakLabel=7ee8fa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="165" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraVerse&bg_color=0d1117&color=7ee8fa&line=7ee8fa&point=ffffff&area=true&area_color=7ee8fa20&hide_border=true&custom_title=Contribution+Graph" width="95%" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/ChandraVerse/ChandraVerse/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+
+</div>
+
+---
+
 ## 🛡️ &nbsp;Cybersecurity Skills
 
 <table>
