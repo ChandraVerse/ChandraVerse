@@ -2,7 +2,7 @@
 <h3 align="center">🛡️ Cybersecurity Analyst | SOC Analyst | Detection Engineering | Incident Response | Penetration Testing</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+SOC+Analysis+%7C+Threat+Hunting;Ethical+Hacking+%7C+Cloud+Security+%7C+SIEM;Always+learning%2C+always+defending+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=SOC+Analyst+%7C+Detection+Engineering+%7C+Threat+Hunting;SIEM+%7C+Wazuh+%7C+Elastic+%7C+Splunk+%7C+KQL;Incident+Response+%7C+NIST+800-61+%7C+SOAR;Offensive+Security+%7C+Active+Directory+%7C+Red+Team;Always+learning%2C+always+defending+%F0%9F%94%90" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,19 +21,34 @@
 
 ## 🧠 About Me
 
+<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd3aDZtbjZycHo5eDN6aHI3aWZ6eTZ6NHZtcTZhdHplcHo2bGZkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+I'm a **cybersecurity analyst** with hands-on experience in **SOC operations**, **SIEM monitoring**, **detection engineering**, and **incident response**. I build real detection pipelines, hunt threats using **MITRE ATT&CK**, and automate triage workflows with Python and SOAR tools.
+
+I've completed **50+ SOC labs** on TryHackMe, authored **Sigma detection rules** mapped to adversary TTPs, and built automated **NIST 800-61** incident response platforms from scratch. I think like a **blue teamer by discipline** and a **red teamer by curiosity**.
+
 ```yaml
-Name     : Chandra Sekhar Chakraborty
-Location : Kolkata, West Bengal, India
-Degree   : B.Tech Computer Science & Engineering (2026)
-Focus    : SOC Analysis | Threat Intelligence | Detection Engineering | Incident Response
-Goals    : SOC Analyst L1 → Cybersecurity Engineer → Security Architect
+🎓 Degree   : B.Tech CSE — Dr. Sudhir Chandra Sur Institute of Technology (2026)
+📍 Location : Kolkata, West Bengal, India
+🔭 Focus    : Detection Engineering | Threat Intelligence | Incident Response
+🎯 Mission  : Detect faster. Respond smarter. Defend stronger.
+🌍 Target   : SOC Analyst L1 role in Europe / UK
 ```
 
-- 🔭 Currently building **[Ghar_Nishchit](https://github.com/ChandraVerse)** — a Rental Property Management Web App
-- 🛡️ Practicing SOC skills on **TryHackMe** and learning **KQL** for Microsoft Sentinel
-- 📚 Studying **MITRE ATT&CK**, **NIST 800-61**, and **Incident Response** frameworks
-- 🌍 Exploring cybersecurity opportunities in **Europe & UK**
-- ⚡ Fun fact: I can analyze a suspicious log file and debug a React component in the same afternoon!
+<br/>
+
+### 🔥 What I'm Currently Doing
+
+- 🏗️ Building **[Enterprise Detection Engineering Lab](https://github.com/ChandraVerse/enterprise-detection-engineering-lab)** — Elastic SIEM + Sigma + MITRE ATT&CK adversary simulation
+- 🤖 Developing an **[Automated IR & Threat Intelligence Platform](https://github.com/ChandraVerse/automated-ir-threat-intelligence-platform)** — Wazuh + SOAR + Grafana MTTD/MTTR tracking
+- 📖 Deepening skills in **KQL**, **memory forensics**, and **Active Directory attack paths**
+- 🏅 Pursuing **CompTIA Security+** and **Microsoft SC-200** certifications
+
+### 📊 Quick Stats
+
+| 🛡️ SOC Labs Completed | 🔍 Detection Rules Authored | 🌐 Experience |
+|:---:|:---:|:---:|
+| **50+** (TryHackMe) | **10+ Sigma Rules** (MITRE-mapped) | Cisco NetAcad + TryHackMe SOC |
 
 ---
 
