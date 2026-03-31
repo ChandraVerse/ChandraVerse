@@ -1,0 +1,2 @@
+# Ignore snake animation dist folder so it doesn't interfere with profile-summary-cards commit
+dist/
