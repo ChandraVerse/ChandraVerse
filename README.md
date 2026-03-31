@@ -59,6 +59,14 @@ Goal      :  SOC Analyst L1 → L2 → Security Architect
 
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ChandraVerse&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true" />
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChandraVerse/ChandraVerse/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChandraVerse/ChandraVerse/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ChandraVerse/ChandraVerse/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
 </div>
 
 ---
