@@ -25,8 +25,12 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Remove git remote to block internal push by cards action
-        run: git remote remove origin
+      - name: Pre-commit snake files so dist/ is not untracked
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git diff --cached --quiet || git commit -m "chore: update snake animation [skip ci]"
 
       - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
@@ -36,14 +40,3 @@ jobs:
           USERNAME: ChandraVerse
           UTC_OFFSET: 5.5
           AUTO_PUSH: true
-
-      - name: Restore git remote and push all files
-        run: |
-          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/ChandraVerse/ChandraVerse.git
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --cached --quiet || git commit -m "chore: update github stats and snake animation [skip ci]"
-          git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
