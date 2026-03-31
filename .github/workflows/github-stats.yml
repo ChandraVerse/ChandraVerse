@@ -17,24 +17,30 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate profile summary cards (no auto push)
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate profile summary cards in isolated directory
+        run: |
+          # Clone the action into a temp location outside the workspace
+          git clone --depth 1 https://github.com/vn7n24fzkq/github-profile-summary-cards.git /tmp/cards-action
+          cd /tmp/cards-action
+          # Run the card generator directly (not via GitHub Actions runner)
+          node dist/index.js ChandraVerse 5.5 || true
+          # Copy the generated output back to the workspace
+          mkdir -p $GITHUB_WORKSPACE/profile-summary-card-output
+          cp -r /tmp/cards-action/profile-summary-card-output/. $GITHUB_WORKSPACE/profile-summary-card-output/ 2>/dev/null || true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ChandraVerse
-          UTC_OFFSET: 5.5
-          AUTO_PUSH: false
 
       - name: Commit and push profile summary cards
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          # Remove any untracked junk (like dist/ dropped by the action)
-          git clean -fd
-          # Stage only the profile summary card output
           git add profile-summary-card-output/
-          git diff --cached --quiet && echo "No card changes" || git commit -m "chore: update profile summary cards [skip ci]"
+          git diff --cached --quiet && echo "No changes" || git commit -m "chore: update profile summary cards [skip ci]"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
