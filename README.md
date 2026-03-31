@@ -170,6 +170,15 @@ End-to-end Python SOAR pipeline ingesting **Wazuh** alerts, enriching IOCs via V
 <tr>
 <td width="50%" valign="top">
 
+#### [Active Directory Penetration Test](https://github.com/ChandraVerse/active-directory-penetration-test)
+
+Full-scope **Active Directory** penetration test lab covering recon, initial access, enumeration, privilege escalation, lateral movement, persistence, credential dumping, and defense evasion — with structured reporting.
+
+`Active Directory` &nbsp; `BloodHound` &nbsp; `Impacket` &nbsp; `Privilege Escalation` &nbsp; `Red Team`
+
+</td>
+<td width="50%" valign="top">
+
 #### [SOC Log Analysis Lab](https://github.com/ChandraVerse/Log-Analysis-Lab)
 
 Simulated multi-layer SOC analyst investigations across **Windows Event Logs**, web server logs and firewall traffic with structured triage findings and escalation documentation.
@@ -177,6 +186,8 @@ Simulated multi-layer SOC analyst investigations across **Windows Event Logs**, 
 `Windows Events` &nbsp; `Firewall Analysis` &nbsp; `SOC Triage`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### [SOC L1 Alert Triage](https://github.com/ChandraVerse/SOC-L1-Alert-Triage)
@@ -186,8 +197,6 @@ Full **SOC Level 1** simulation covering the complete alert lifecycle — ingest
 `Alert Triage` &nbsp; `Incident Response` &nbsp; `SOC L1`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### [IP Investigation — VirusTotal](https://github.com/ChandraVerse/IP-Investigation)
@@ -197,6 +206,8 @@ Threat intelligence investigation using **VirusTotal** to analyse suspicious IPs
 `VirusTotal` &nbsp; `IOC Analysis` &nbsp; `OSINT`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### [Network Traffic Analysis — Wireshark](https://github.com/ChandraVerse/Monitoring-Network-Traffic)
@@ -205,6 +216,8 @@ Live packet capture and deep analysis on a Linux VM — protocol dissection, tra
 
 `Wireshark` &nbsp; `Packet Analysis` &nbsp; `Network Forensics`
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
