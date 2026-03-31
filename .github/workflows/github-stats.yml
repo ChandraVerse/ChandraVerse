@@ -17,14 +17,27 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate profile summary cards
+      - name: Generate profile summary cards (no auto push)
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ChandraVerse
           UTC_OFFSET: 5.5
-          AUTO_PUSH: true
+          AUTO_PUSH: false
+
+      - name: Commit and push profile summary cards
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Remove any untracked junk (like dist/ dropped by the action)
+          git clean -fd
+          # Stage only the profile summary card output
+          git add profile-summary-card-output/
+          git diff --cached --quiet && echo "No card changes" || git commit -m "chore: update profile summary cards [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
