@@ -6,6 +6,8 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=flat-square&logo=githubpages&logoColor=white)](https://chandraverse.github.io/chandraverse-portfolio/)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-sekhar-chakraborty-a9411a286/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=chakrabortychandrasekhar185@gmail.com)
@@ -256,6 +258,8 @@ Live packet capture and deep analysis on a Linux VM — protocol dissection, tra
 
 <br/>
 
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white)](https://chandraverse.github.io/chandraverse-portfolio/)
+&nbsp;
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-sekhar-chakraborty-a9411a286/)
 &nbsp;
 [![Send an Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=chakrabortychandrasekhar185@gmail.com)
