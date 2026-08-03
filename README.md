@@ -8,9 +8,9 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=flat-square&logo=githubpages&logoColor=white)](https://chandraverse.github.io/chandraverse-portfolio/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-sekhar-chakraborty-a9411a286/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandra-chakraborty-a9411a286/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=chakrabortychandrasekhar185@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=chandrachakraborty900@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ChandraVerse)
 
@@ -28,7 +28,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Chandra Sekhar Chakraborty**, a final-year B.Tech Computer Science student from Kolkata, India, specialising in **cybersecurity operations and detection engineering**.
+I'm **Chandra Chakraborty**, a B.Tech Computer Science graduate from Kolkata, India, specialising in **cybersecurity operations and data analyst**.
 
 I design and build production-grade **detection pipelines**, author **Sigma rules** mapped to the MITRE ATT&CK framework, and automate incident response workflows using Python and SOAR. With 50+ hands-on SOC labs completed and a full NIST 800-61 Incident Response platform shipped from scratch, I bridge the gap between theory and real-world threat operations.
 
