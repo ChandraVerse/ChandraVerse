@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Chandra%20Sekhar%20Chakraborty&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Cybersecurity%20Analyst%20%E2%80%A2%20Detection%20Engineer%20%E2%80%A2%20Threat%20Hunter&descSize=15&descColor=58a6ff&descAlignY=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Chandra%20Chakraborty&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Cybersecurity%20Analyst%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20&descSize=15&descColor=58a6ff&descAlignY=62" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=SOC+Analyst+%7C+Detection+Engineering+%7C+Threat+Hunting;SIEM+%C2%B7+KQL+%C2%B7+Sigma+%C2%B7+MITRE+ATT%26CK+%C2%B7+SOAR;Building+detection+pipelines+that+matter;SOC+L1+%E2%86%92+SOC+L2+%E2%86%92+Security+Architect" />
 
